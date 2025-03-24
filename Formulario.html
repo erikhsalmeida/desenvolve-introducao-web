@@ -35,27 +35,32 @@
 </head>
 <body>
     <header>
-        <h1>Pesquisa de Satisfação sobre o curso de HTML</h1>
+        <h1>Pesquisa de Satisfação sobre o curso do Projeto Desenvolve</h1>
     </header>
     <main>
         <section>
             <h2>Responda a Pesquisa de Satisfação abaixo para avaliarmos o desempenho do nosso curso</h2>
         </section>
-
-        <section>
-            <form action="pesquisa.hmtl" method="post"> 
-                <p>
-                    <label for="Nome"><strong>Nome completo:</strong></label> <br>
-                    <input type="text" id="Nome" size="150"/>
-                </p>
-                <p>
-                    <label for="email"><strong>E-mail:</strong></label> <br>
-                    <input type="email" id="email" />
-                </p>
-                <p>
-                    <label for="telefone"><strong>Telefone contato:</strong></label> <br>
-                    <input type="number" name="telefone" />
-                </p>
+        
+        <form action="pesquisa.hmtl" method="post"></form>
+            <section>
+                <h3>Dados pessoais</h3>
+                    <p>
+                        <label for="Nome"><strong>Nome completo:</strong></label> <br>
+                        <input type="text" id="Nome" size="150"/>
+                    </p>
+                    <p>
+                        <label for="email"><strong>E-mail:</strong></label> <br>
+                        <input type="email" id="email" />
+                    </p>
+                    <p>
+                        <label for="telefone"><strong>Telefone contato:</strong></label> <br>
+                        <input type="tel" name="telefone" />
+                    </p>
+            </section>
+        
+            <section>
+                <h3>Dados de avalição</h3>
                 <p>
                     <strong>Como você avalia o conteúdo proposto:</strong>  <br>
                     <input type="radio" id="ruim1" name="conteudo" />
@@ -101,8 +106,8 @@
                 <p>
                     <input type="submit" value="Enviar">
                 </p>
-            </form>
-        </section>
+            </section>
+        </form>
     </main>
 
     <footer>
