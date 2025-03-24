@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Pesquisa de Satisfação</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            margin: 20px;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        main {
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        h2 {
+            color: #333;
+        }
+        ul {
+            list-style-type: square;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Pesquisa de Satisfação sobre o curso de HTML</h1>
+    </header>
+    <main>
+        <section>
+            <h2>Responda a Pesquisa de Satisfação abaixo para avaliarmos o desempenho do nosso curso</h2>
+        </section>
+
+        <section>
+            <form action="pesquisa.hmtl" method="post"> 
+                <p>
+                    <label for="Nome"><strong>Nome completo:</strong></label> <br>
+                    <input type="text" id="Nome" size="150"/>
+                </p>
+                <p>
+                    <label for="email"><strong>E-mail:</strong></label> <br>
+                    <input type="email" id="email" />
+                </p>
+                <p>
+                    <label for="telefone"><strong>Telefone contato:</strong></label> <br>
+                    <input type="number" name="telefone" />
+                </p>
+                <p>
+                    <strong>Como você avalia o conteúdo proposto:</strong>  <br>
+                    <input type="radio" id="ruim1" name="conteudo" />
+                    <label for="ruim1">Ruim. Conteúdo precisa melhorar.</label> <br>
+                    <input type="radio" id="bom1" name="conteudo" />
+                    <label for="bom1">Bom. Atende as expectativas.</label> <br>
+                    <input type="radio" id="excelente1" name="conteudo" />
+                    <label for="excelente1">Excelente. Acima das expectativas</label> <br>
+                </p>
+                <p>
+                    <strong>Como você avalia os professores:</strong> <br>
+                    <input type="radio" id="ruim" name="professores" />
+                    <label for="ruim">Ruim. Podem melhorar.</label> <br>
+                    <input type="radio" id="bom" name="professores" />
+                    <label for="bom">Bom. Atendem as expectativas.</label> <br>
+                    <input type="radio" id="otimo" name="professores" />
+                    <label for="otimo">Ótimo. Acima das expectativas</label> <br>
+                    <input type="radio" id="excelente" name="professores" /> 
+                    <label for="excelente">Excelente. Não há nada para melhorar.</label> <br>
+                </p>
+                <p>
+                    <strong>Qual o conteúdo que você mais gostou? (Podem ser selecionadas quantas opções desejar)</strong> <br>
+                    <label for="select"><strong>Conteúdos:</strong></label> <br>
+                    <select multiple>
+                        <option>Scratch</option>
+                        <option>WEB</option>
+                        <option>HTML</option>
+                        <option>CSS</option>
+                        <option>Pyton</option>
+                        <option>Linux</option>
+                        <option>No Code</option>
+                        <option>Nenhuma das opções</option>
+                    </select>
+                </p>
+                <p>
+                    <strong>Caso a resposta anterior tenha sido "Nenhuma das Opções", Explique o Porque no campo abaixo:</strong> <br>
+                    <textarea name="text" id="text" cols="100" rows="5"></textarea>
+                </p>
+                <p>
+                    <input type="checkbox" id="Termos" />
+                    <label for="Termos">Concordo com os Termos de Uso e <strong>autorizo</strong> o compartilhamento da minha resposta com terceiros</label>
+                </p>
+                <p>
+                    <input type="submit" value="Enviar">
+                </p>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Pesquisa de Satisfação Projeto Desenvolve</p>
+    </footer>
+
+</body>
+</html>
