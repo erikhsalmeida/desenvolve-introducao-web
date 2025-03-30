@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tributo a R10!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 20px;
+        }
+        header img {
+            width: 100%;
+            max-height: 750px;
+            object-fit: cover;
+        }
+        main {
+            padding: 20px;
+            background-color: white;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        aside {
+            background-color: #ddd;
+            padding: 15px;
+            margin: 20px;
+            border-radius: 8px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #333;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #555;
+            color: white;
+        }
+        ul, ol {
+            margin: 10px 0;
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #222;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <br>
+        <audio controls autoplay>
+            <source src="./videoplayback.weba" type="audio/mpeg">
+            Seu navegador não suporta áudio tag.
+        </audio>
+        <h1 id="inicio">Tributo a <strong>Ronaldinho Gaúcho, o Bruxo!</strong> </h1> 
+        <img src="./Ronaldinho-Gaucho2.jpg" alt="Imagem de destaque do ídolo">
+    </header>
+
+    <main>
+        <section>
+            <h2>Apresentação</h2>
+            <p><strong>Ronaldinho Gaúcho, R10 ou Bruxo</strong> para os mais íntimos, é uma figura icônica no mundo do <em>futebol</em>. Com uma carreira brilhante, ele conquistou fãs ao redor do mundo com seu <strong>talento excepcional</strong> e carisma. Ele que brilhou por onde passou, foi aplaudido de pé pela torcida do <em>maior clube do mundo</em> que por acaso era seu rival naquele dia e com sua humildade e sorriso largo encantou torcedores do mundo todo!
+            </p>
+        </section>
+        <section>
+            <h2>Carreira</h2>
+            <h3>Início no Grêmio</h3>
+            <img src="https://assets.goal.com/images/v3/bltccd8912183ac933f/e96381f8ddf224d4d4853077bd2437c3a4b69938.jpg?auto=webp&format=pjpg&width=3840&quality=60" alt="R10 Gremio" height="200" width="450"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW4zkE7bnLp5G2Fgg5nYapkbQfPtceQlWYKw&s" alt="R10 Gremio2" height="200" width="450"><img src="https://portaldogremista.com.br/wp-content/uploads/2023/07/portaldogremista.com.br-top-3-jogadores-que-ja-atuaram-por-gremio-x-atletico-mg-ronaldinho-gaucho-gremio.jpg" alt="R10 Gremio2" height="200" width="450">
+            <p>
+                Desde o início de sua jornada em <strong>1997</strong>, <em>Ronaldinho</em> mostrou um potencial incrível. Ainda com 17 anos se destacou atuando no <strong> time do Grêmio, ganhando o título do campeonato Sub-17 de 1997</strong> tendo como seu primeiro treinador Sebastião Lazaroni. Sua primeira aparição como profissional ocorreu em 1998, na Copa Libertadores da América, onde logo sua <em>habilidade e seu grande domínio de bola</em> começaram a ser notados pelos clubes.
+            </p>
+            <p>
+                Em 1999, além da consagração no jogo contra a <em>Seleção Venezuelana pela Copa América</em>, Ronaldinho também brilhou nas finais do <em>Campeonato Gaúcho</em>, quando fez o gol do título contra o rival <em>Internacional</em>. Além da boa atuação, o jovem foi audaz e ficou marcado por ter realizado <strong>dribles fantásticos em Dunga</strong>, o capitão do tetracampeonato de 1994.
+            </p>
+            <p>
+                Sua atuação nessa final foi um importante fator para sua convocação à <strong>Seleção Brasileira</strong>, sendo chamado pelo então técnico <em>Vanderlei Luxemburgo</em>. Disputou 141 partidas e marcou 68 gols pelo Grêmio, contando partidas oficiais e amistosos. Alguns o consideram a maior revelação do Grêmio desde <strong>Renato Gaúcho</strong>.
+           </p>
+           <h3>Transferência para a Europa</h3>
+           <img src="https://a.espncdn.com/photo/2021/0215/r815266_1296x729_16-9.jpg" alt="R10 PSG" height="200" width="450"> <img src="https://assets.goal.com/images/v3/bltbb4f0acadc12a3eb/b49b1ff92300a66a3adc1fab39e8bca60bca5918.jpg?auto=webp&format=pjpg&width=3840&quality=60" alt="R10 Barcelona" height="200" width="450"><img src="https://ogimg.infoglobo.com.br/in/3067378-5be-bc2/FT1086A/Ronaldinho-Gaucho-comemora-um-dos-tres-gols-que-fez-contra-o-SienaFoto-AP.jpg" alt="R10 Milan" height="200" width="450">
+           <p>
+                Ronaldinho Gaúcho despertou interesse de clubes europeus, e o <strong>Paris Saint-Germain</strong> ofereceu 7 milhões de euros por ele. No entanto, o Grêmio recusou, pois lucrava com sua presença no time. Em 2001, com contrato perto do fim, Ronaldinho assinou um pré-contrato com o PSG sem consentimento do clube brasileiro, o que gerou uma disputa judicial e o afastou dos gramados por meses.
+           </p>
+           <p>
+                No PSG, Ronaldinho teve problemas com o técnico <em>Luis Fernández</em> devido a seu estilo de vida fora de campo. Mesmo assim, destacou-se em jogos contra grandes times. Após a Copa de 2002, quis sair do clube e, em 2003, optou pelo <strong>Barcelona</strong>, recusando outras ofertas.
+           </p>
+           <p>
+                No <strong>Barcelona</strong>, chegou em 2003 e brilhou rapidamente. Em sua primeira temporada, ajudou o time a conquistar o <em>vice-campeonato espanhol</em>. Na temporada seguinte, foi decisivo na conquista do <strong>título espanhol e da Supercopa</strong>. Em 2005, venceu a <strong>Bola de Ouro e o prêmio de Melhor Jogador do Mundo pela FIFA</strong>.
+           </p>
+           <p>
+                Na temporada 2005–06, consolidou-se como um dos melhores do mundo, vencendo novamente o <strong>Campeonato Espanhol e a Liga dos Campeões</strong>. <strong>Sua atuação memorável contra o Real Madrid, recebendo aplausos da torcida rival, marcou sua carreira</strong>. Com problemas físicos na temporada 2007–08, deixou o clube em 2008.
+           </p>
+           <p>
+                Ronaldinho recusou o <em>Manchester City</em> e transferiu-se para o <em>Milan</em>. Sua primeira temporada foi abaixo das expectativas, mas na segunda, recuperou o bom futebol e se destacou. Em 2010, foi eleito o <strong>futebolista da década pela revista World Soccer</strong> e encerrou a temporada como <em>líder de assistências da Serie A</em>.
+           </p>
+           <h3>Volta ao Brasil</h3>
+           <img src="https://colunadofla.com/wp-content/uploads/2022/07/ronaldinho-gaucho-comemorando-gol-pelo-flamengo.jpg" alt="R10 Flamengo" height="200" width="350"> <img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/07/Ronaldinho-e1721733767846.png" alt="R10 Atlético
+           " height="200" width="350"><img src="https://cdn.conmebol.com/wp-content/uploads/2014/09/ronaldinho_4.jpg" alt="R10 Querétaro" height="200" width="350"><img src="https://www.netflu.com.br/wp-content/uploads/2017/07/r10.jpg" alt="R10 Fluminense" height="200" width="350">
+           <h4>Flamengo</h4>
+           <p>
+                Ronaldinho Gaúcho decidiu voltar ao Brasil para aumentar suas chances de disputar a <strongCopa do Mundo de 2014></strong>. O <em>Grêmio</em> surgiu como favorito para sua contratação, mas as negociações se arrastaram e o clube desistiu após desentendimentos. <em>Palmeiras</em> também tentou contratá-lo, mas abandonou a disputa após críticas ao empresário Assis. Com isso, o <em>Flamengo</em> garantiu o craque, gerando grande entusiasmo entre os torcedores.
+           </p>
+           <p>
+                Apresentado em 12 de janeiro de 2011 no Estádio da Gávea, <strong>Ronaldinho foi recebido por mais de 20 mil torcedores</strong>. O <em>Flamengo</em> estipulou uma multa rescisória milionária para protegê-lo de transferências inesperadas. Ele estreou pelo clube no <em>Campeonato Carioca</em>, onde marcou seu primeiro gol e liderou a equipe à conquista da <strong>Taça Guanabara e do Campeonato Carioca</strong>.            
+           </p>
+           <p>
+                No <em>Brasileirão</em>, <strong>Ronaldinho</strong> teve atuações memoráveis, incluindo um hat-trick contra o Santos na vitória épica por 5–4. Enfrentou vaias intensas da torcida do <em>Grêmio</em> ao jogar contra seu ex-clube, sendo chamado de "mercenário" pelos gremistas. Sua passagem pelo <em>Flamengo</em>, apesar dos momentos brilhantes, foi marcada por polêmicas.
+           </p>
+           <p>
+                A relação com o <em>Flamengo</em> se deteriorou quando a Traffic, empresa que financiava parte de seu salário, interrompeu os pagamentos. O clube prometeu cobrir os custos, mas falhou, levando <strong>Ronaldinho a rescindir o contrato na Justiça em maio de 2012</strong>. Ele alegou atrasos salariais e pediu 40 milhões de reais. No total, <strong>marcou 28 gols em 74 jogos e conquistou um Campeonato Carioca antes de sua saída conturbada</strong>.            
+           </p>
+           <h4>Atlético Mineiro</h4>
+           <p>
+                Ronaldinho chegou ao <em>Atlético Mineiro</em> em junho de 2012, após rescindir contrato com o <em>Flamengo</em>. A negociação foi rápida, com o presidente Alexandre Kalil fechando o acordo com o jogador e seu irmão Assis. A apresentação foi discreta, mas cercada de grande expectativa. Seu contrato inicial era de seis meses, com um salário bem inferior ao que recebia no Flamengo. Desde o início, <em>Ronaldinho destacou seu objetivo de conquistar um título importante para o clube</em>.
+           </p>
+           <p>
+                Na primeira temporada, sua estreia aconteceu contra o Palmeiras, e ele rapidamente se tornou peça fundamental no time. Marcou gols decisivos, como no clássico contra o <em>Cruzeiro</em>, e ajudou o <strong>Atlético a terminar o Campeonato Brasileiro em segundo lugar, garantindo vaga na Libertadores de 2013</strong>. Sua atuação rendeu prêmios individuais, como <strong>Bola de Ouro da Placar e Craque da Galera do Brasileirão</strong>.            
+           </p>
+           <p>
+                Em 2013, Ronaldinho renovou com o Atlético e teve participação destacada no Campeonato Mineiro e na Libertadores. No torneio continental, brilhou na fase de grupos e em jogos decisivos, como contra o São Paulo e Arsenal de Sarandí. Apesar de momentos de críticas por sua postura fora de campo, <strong>foi crucial na conquista inédita da Libertadores para o clube. Na final contra o Olimpia, foi um dos líderes do time, consolidando-se como um dos grandes nomes da história do Galo</strong>.
+           </p>
+           <p>
+                Ronaldinho permaneceu no Atlético até julho de 2014, conquistando ainda a <strong>Recopa Sul-Americana</strong>. Ao todo, marcou <strong>28 gols em 88 partidas e deixou o clube como ídolo</strong>. Sua passagem foi marcada por genialidade dentro de campo e polêmicas fora dele, mas ficou eternizada na <strong>história atleticana</strong>.
+           </p>        
+           <h4>Querétaro e Fluminense</h4>
+           <p>
+                Ronaldinho assinou com o <em>Querétaro, do México</em>, em setembro de 2014, por dois anos. Sua estreia aconteceu no dia 18 do mesmo mês, na Copa do México, diante de 35 mil torcedores, mas <em>perdeu um pênalti na derrota para o Tigres</em>. Poucos dias depois, marcou seu primeiro gol pelo clube, também de pênalti, na <strong>vitória sobre o Chivas por 4–1</strong>.
+           </p>
+           <p>
+                Em março de 2015, <strong>conquistou a Copa El Rancho nos Estados Unidos</strong>, marcando um gol na final contra o <em>Puebla</em>. No mês seguinte, <strong>brilhou contra o América no Estádio Azteca, marcando dois gols em apenas oito minutos e sendo <em>aplaudido pela torcida adversária</em></strong>.
+           </p>
+           <p>
+                Ronaldinho deixou o <em>Querétaro</em> em junho de 2015, após nove meses, <strong>32 partidas e oito gols</strong>. Foi <strong>peça-chave na campanha do vice-campeonato do Clausura Mexicano</strong>, mas sua passagem gerou polêmicas sobre disciplina. Ainda assim, seu <strong>talento e importância em campo</strong> foram reconhecidos pela diretoria do clube.
+           </p>
+           <p>
+                Após sua saída, acertou com o <em>Fluminense em julho de 2015</em>, recebendo a camisa 10. Estreou no dia 1º de agosto contra o Grêmio, sendo ovacionado pela torcida e ajudando na vitória por 1–0. Apesar de boas atuações iniciais, seu desempenho caiu, e ele deixou o clube no início de 2016.
+           </p>
+           <p>
+                Sem assinar com outro time nos anos seguintes, <strong>Ronaldinho teve sua aposentadoria confirmada em 2018 por seu irmão e empresário.</strong>
+           </p>
+           <h3>Seleção Brasileira</h3>
+           <img src="https://assets.portalleodias.com/2024/04/6f6c40c2-foto-ronaldinho-gaucho-selecao-brasileira-capa-430x323.png" alt="R10 Seleção" height="200" width="450"> <img src="https://cdn.conmebol.com/wp-content/uploads/2024/03/000_APH2000022305710-1024x715.jpg" alt="R10 Seleção1" height="200" width="450"><img src="https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2024/01/GC72JvRaoAAVpqr-e1718405276729.jpg" alt="R10 Seleção2" height="200" width="450">
+           <p>
+                Ronaldinho estreou pela <strong>Seleção Brasileira em junho de 1999</strong>, mas se destacou na <strong>Copa América do mesmo ano ao marcar um belo gol contra a Venezuela</strong>. No ano seguinte, foi o principal nome da equipe nas <em>Olimpíadas de Sydney</em>, mas o Brasil caiu para <em>Camarões nas quartas de final</em>.
+           </p>
+           <p>
+                Na <strong>Copa do Mundo de 2002, formou o trio ofensivo "três Rs" ao lado de Ronaldo e Rivaldo</strong>. Marcou um gol e deu assistência na <em>virada sobre a Inglaterra nas quartas de final</em>, mas foi expulso e perdeu a semifinal. Retornou para a final contra a Alemanha, ajudando na <strong>conquista do pentacampeonato</strong>.
+           </p>
+           <p>
+                Já como <strong>melhor jogador do mundo</strong>, Ronaldinho era a grande esperança do Brasil na Copa de 2006, mas teve desempenho abaixo do esperado. Foi criticado pelo esquema tático adotado e pela eliminação diante da França. O descontentamento da torcida foi tão grande que até uma <strong>estátua sua foi incendiada em Chapecó</strong>.
+           </p>
+           <p>
+                Em 2008, foi <strong>convocado para as Olimpíadas de Pequim como o jogador mais experiente do elenco</strong>. Apesar de boa campanha inicial, o Brasil foi eliminado pela <em>Argentina na semifinal</em>. Segundo a comissão técnica, Ronaldinho estava fisicamente abaixo do ideal.
+           </p>
+           <p>
+                Sua última partida antes da Copa de 2010 foi em 2009, nas Eliminatórias. Apesar dos <strong>apelos populares por sua convocação</strong>, ficou apenas na lista de suplentes, pois Dunga questionava seu comprometimento.
+           </p>
+           <p>
+                <strong>Retornou à Seleção com Mano Menezes, jogando amistosos em 2010 e 2011, incluindo contra Argentina e Gana</strong>. Sua última partida pela Amarelinha aconteceu em 2013, como capitão em um empate contra o Chile. Rumores indicam que teria se apresentado bêbado, o que pode ter selado seu afastamento definitivo da equipe.
+           </p>
+           <h2>Resumo profissional</h2>
+           <ul>
+                <li><strong>Início promissor em 1997</strong>.</li>
+                <li><strong>Grande sucesso com o Barcelona (2003–2008):</strong> Conquistou a Liga dos Campeões de 2006, venceu duas vezes o prêmio de Melhor Jogador do Mundo da FIFA (2004 e 2005) e recebeu aplausos da torcida do Real Madrid no Santiago Bernabéu.</li>
+                <li><strong>Consagração na Copa do Mundo de 2002:</strong> Foi peça-chave no título mundial com a Seleção Brasileira, marcando um gol icônico contra a Inglaterra e formando o trio dos "Três Rs" ao lado de Ronaldo e Rivaldo.</li>
+                <li><strong>Título inédito da Libertadores com o Atlético Mineiro (2013):</strong> Liderou a equipe na maior conquista da história do clube, sendo fundamental em partidas decisivas.</li>
+                <li><strong>Bola de Ouro</strong> (2005), <strong>FIFA World Player of the Year</strong> (2004, 2005), <strong>Melhor Jogador da UEFA</strong> (2005) e <strong>Bola de Prata da Copa do Mundo</strong> (2002)</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Principais Conquistas</h2>
+            <table>
+                <tr>
+                    <th>Conquista</th>
+                    <th>Ano</th>
+                </tr>
+                <tr>
+                    <td><strong>Campeonato Gaúcho - Grêmio</strong></td>
+                    <td><em>1999</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Copa América - Seleção Brasileira</strong></td>
+                    <td><em>1999</em></td>
+                </tr>                
+                <tr>
+                    <td><strong>Copa do Mundo - Seleção Brasileira</strong></td>
+                    <td><em>2002</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Campeonato Espanhol - Barcelona</strong></td>
+                    <td><em>2004-2005</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Copa das Confederações FIFA - Seleção Brasileira</strong></td>
+                    <td><em>2005</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Campeonato Espanhol - Barcelona</strong></td>
+                    <td><em>2005-2006</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Liga dos Campeões da UEFA - Barcelona</strong></td>
+                    <td><em>2005-2006</em></td>
+                </tr>  
+                <tr>
+                    <td><strong>Supercopa da UEFA - Barcelona</strong></td>
+                    <td><em>2006</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Serie A - Milan</strong></td>
+                    <td><em>2010-2011</em></td>
+                </tr>                                           
+                <tr>
+                    <td><strong>Campeonato Carioca - Flamengo</strong></td>
+                    <td><em>2011</em></td>
+                </tr>
+                <tr>
+                    <td><strong>Campeonato Mineiro - Atlético Mineiro</strong></td>
+                    <td><em>2013</em></td>
+                </tr>    
+                <tr>
+                    <td><strong>Libertadores da América - Atlético Mineiro</strong></td>
+                    <td><em>2013</em></td>
+                </tr>               
+                <tr>
+                    <td><strong>Recopa Sul-Americana - Atlético Mineiro</strong></td>
+                    <td><em>2014</em></td>
+                </tr>
+            </table>
+        </section>
+        <section>
+            <h2>Curiosidades sobre Ronaldinho</h2>
+            <ol>
+                <li>Na infância, a sua principal diversão era brincar com a bola de futebol, junto dos seus melhores amigos. Com 7 anos começou a jogar na escola de futebol infantil do Grêmio.</li>
+                <li>Aos 8 anos seu pai morreu ao cair em uma piscina, e ele recebeu apoio de sua mãe, da sua irmã, e passou a enxergar seu irmão mais velho como figura paterna.</li>
+                <li>Desde pequeno, Ronaldinho já demonstrava habilidade com a bola, como se pode ver em vídeos caseiros da sua família.</li>
+                <li>Quando Ronaldinho tinha 13 anos de idade, marcou 23 gols num jogo só</li>
+                <li>Em 2001, Ronaldinho foi acusado de ter cometido dois delitos: ter falsificado sua carteira de motorista e ter agredido um menor ao atirar-lhe uma mexerica.</li>
+                <li>Em 2018, Ronaldinho Gaúcho filiou-se ao Partido Republicano Brasileiro (PRB) do Distrito Federal, visando uma possível candidatura para deputado ou senador nas eleições gerais de 2018.</li>
+                <li>Em 11 de abril de 2011, Ronaldinho recebeu da Academia Brasileira de Letras a Medalha Machado de Assis, tornando-se o primeiro jogador a ser agraciado com a honraria.</li>
+                <li>Em 30 de setembro de 2012, Ronaldinho Gaúcho, que não havia completado dois meses residindo em BH, recebeu no plenário da Câmara Municipal de Belo Horizonte o título de Cidadão Honorário da capital mineira.</li>
+                <li>Ronaldinho ficou na 82ª colocação no programa televisivo O Maior Brasileiro de Todos os Tempos, apresentado na SBT em julho de 2012, que contava com o voto popular.</li>
+                <li>Em 5 de abril de 2017, Ronaldinho recebeu o título de Cidadão Honorário do Município do Rio de Janeiro.</li>
+                <li>Em abril de 2022, foi lançado "Ronaldinho: O Homem mais Feliz do Mundo", documentário lançado no FIFA+</li>
+                <li>Ronaldinho Gaúcho participou de várias músicas, incluindo "Solteiro de Novo", "Garra", "O Segredo do Feijão", "Saideira", "Explana o Escondido", "Minha Identidade" e "Olé Olé". Ele também compôs canções como "Solteiro de Novo", "No Meu Quintal", "Você Não Vive sem" e "Passinho". </li>
+                <li>Marcou mais de 300 gols ao longo de sua carreira</li>
+                <li>Participou de 531 gols, entre gols e assistências</li>
+                <li>Ronaldinho Gaúcho ganhou o apelido de <strong>“bruxo”</strong><img src="./chapeu-de-bruxa.png" alt="chapeu-de-bruxa" height="30" width="30"> devido à sua habilidade mágica com a bola, que encantava torcedores e adversários </li>
+            </ol>
+        </section>
+        <section>
+            <h2>Contemple os melhores momentos desse bruxo do futebol</h2>
+            <P>
+                <iframe width="914" height="514" src="https://www.youtube.com/embed/qaSMnuXla_4" title="Ronaldinho Gaúcho - Melhores momentos no Barcelona - Gols, Dribles." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </P>    
+        </section>
+    </main>
+    <aside>
+        <h2>Ficha de Identificação</h2>
+        <img src="./Ronaldinho.jpg" alt="Imagem de perfil" width="150">
+        <p><strong>Nome Completo:</strong> Ronaldo de Assis Moreira</p>
+        <p><strong>Data de Nascimento:</strong> 21/03/1980</p>
+        <p><strong>Local de Nascimento:</strong> Porto Alegre/RS, Brasil</p>
+        <p><strong>Área de Atuação:</strong> Futebol, Musica, cinema e rolês aleatórios</p>
+    </aside>
+         <footer>    
+        <p><a href="#inicio">Volte ao topo</a></p>
+        <p>Fonte:  
+            <a href="https://pt.wikipedia.org/wiki/Ronaldinho_Ga%C3%BAcho">wikipédia</a> |  
+            <a href="https://www.superesportes.com.br/app/1,9/2013/12/14/noticia_atletico_mg,271423/entrevista-ronaldinho-lembra-futebol-na-infancia-idolos-e-recuperacao-no-atletico.shtml">Superesportes</a>
+        </p>
+        <p>Data de criação: <em>30/03/2025</em></p>
+        <p>&copy; 2025 - Tributo a R10</p>
+        </footer>
+</body>
+</html>
