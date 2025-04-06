@@ -1,0 +1,113 @@
+<!-- 
+ Seletores CSS
+Nesta aula...
+Nós iremos conhecer mais detalhes a respeito dos seletores CSS. Ao final você irá:
+•Conhecer os tipos básicos de seletores disponíveis
+•Compor vários seletores para a mesma regra
+•Entender a prioridade existente entre cada tipo de seletor
+
+ Tipos de Seletores
+Três tipos de seletores são utilizados como base para definir os elementos alvos de uma estilização.
+1. Seletores genéricos
+2. Seletores de classe
+3. Seletores de ID
+
+ 1. Seletores Genéricos
+São seletores mais e abrangentes.
+Afetam todos os elementos de um tipo específico.
+
+Use com moderação!
+
+    a { /* Todos os links */}
+    p { /* Todos os parágrafos */}
+    ul { /* Todos as listas */}
+    li { /* Todos os itens de lista */}
+
+ 2. Seletores de classe
+Estilizam elementos que compartilham uma classe
+A classe é definida pelo atributo class no código HTML
+O seletor de classe deve ser precedido por ponto (.)
+Um elemento pode receber várias classes, e uma classe pode ser declarada em vários elementos.
+
+Exemplos:
+.date { 
+    font-weight: bold; 
+    color: #FF9900;
+} CSS
+    
+<p class="date"> HTML
+        Sábado, 09 de setembro.
+</p>
+<p>
+O evento será no <em
+class="date"> Sábado </em>.
+</p>
+
+Resultado
+Sábado, 09 de setembro.
+O evento será no Sábado.
+
+ 3. Seletores de ID
+Usados quando se deseja estilizar um elementos específico da página
+Deve-se identificar o elemento único pelo atributo id
+O seletor deve ser precedido por hashtag (#)
+Um elemento aceita apenas um único id, e o id não pode se repetir na página.
+
+Exemplos:
+
+#cabecalho {
+    background-color: #333;
+    color: #fff;
+} CSS
+
+<p id="cabecalho">Conteúdo exclusivo do Cabeçalho</p> HTML
+<p>Outro conteúdo da página</p>
+
+Resultado
+Conteúdo exclusivo do Cabeçalho
+Outro conteúdo da página
+
+A regra dos 100
+> Seletores #id valem 100
+> Seletores .class valem 10
+> Seletroes tag valem 1
+-->
+
+<!--
+Exercícios - CSS Seletores
+
+1. Implemente um código CSS para mudar as cores dos links de uma página. A cor padrão do link deverá ser vermelha ( red ) e deverá mudar para limão (lemon) quando sobreposta pelo mouse.
+
+2. Implemente um código CSS que irá customizar os parágrafos da seguinte forma.
+    * Parágrafos em geral terão a fonte Arial
+    * Parágrafos declarados logo após h1 ficarão em negrito
+
+3. Implemente um código CSS para estilizar a classe .destaque da seguinte forma.
+    * Por padrão, utilizará a fonte Arial
+    * Se atribuída a um parágrafo, ficará em negrito
+    * Se atribuída a um <strong> , ficará em vermelho
+
+Envie nessa atividade com o link do projeto no GitHub.
+-->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <title>CSS - Seletores</title>
+    <link rel="stylesheet" href="Style-CSS-Seletores.css">
+</head>
+<body>
+    <h1>Exercícios - Seletores</h1>
+    
+    <p>Exemplos usados no exercício de Seletores de CSS. (Parágrafo em negrito)</p>
+    
+    <p>Texto de exemplo do parágrafo em arial e sem negrito</p>
+  
+    <p><a href="https://g1.globo.com/">Clique aqui</a> para visitar o <strong class="destaque">link de teste</strong>.</p>
+  
+    <p class="destaque">Parágrafo com classe destaque (fica em negrito).</p>
+  
+    <strong class="destaque">Texto forte com classe destaque (fica em vermelho).</strong>
+
+</body>
+</html>
