@@ -1,0 +1,30 @@
+<style>
+        a {
+        color: red;
+        text-decoration: none;
+        }
+
+        a:hover {
+        color: lemonchiffon;
+        }
+
+        p {
+        font-family: Arial;
+        }
+
+        h1 + p {
+        font-weight: bold;
+        }
+
+        .destaque {
+        font-family: Arial;
+        }
+
+        p.destaque {
+        font-weight: bold;
+        }
+
+        strong.destaque {
+        color: red;
+        }
+    </style>
